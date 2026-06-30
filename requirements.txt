@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+mediapipe
+numpy
+pillow
+pandas
+google-generativeai
+python-dotenv
+python-pptx
